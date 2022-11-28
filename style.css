@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #C6D8FF;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+strong, em {
+  font-style: oblique;
+}
+
+li {
+  font-size: larger;
+}
+
+h2 {
+  padding-bottom: 10px;
+}
+
+#nome {
+  text-align: center;
+  padding: 20px;
+}
+
+#foto {
+  float: left;
+  padding: 20px;
+  margin-right: 10px;
+  background-color: #71a9f7;
+}
+
+#menu {
+  display: inline-block;
+  margin: 20px 0 0 20px;
+}
